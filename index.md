@@ -4,6 +4,10 @@
 
 ![P](mine.png)
 
+I created this since I am a Mechanical Keyboard enthusiast. I added the text to an exisitng meme format/template in order to create an orignal image.
+
+## My Code
+
 library(magick)
 
 brownswitches <- image_blank(width = 300,
