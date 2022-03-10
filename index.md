@@ -1,5 +1,9 @@
 # My Index File
 
+## My Meme
+
+![P](mine.png)
+
 library(magick)
 
 brownswitches <- image_blank(width = 300,
