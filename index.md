@@ -2,9 +2,14 @@
 
 ## My Meme
 
-![P](mine.png)
+![Meme](mine.png)
 
 I created this since I am a Mechanical Keyboard enthusiast. I added the text to an exisitng meme format/template in order to create an orignal image.
+
+* Love blue switches
+* Tolerate red switches
+* Dislike brown switches
+
 
 ## My Code
 
