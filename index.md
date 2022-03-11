@@ -8,6 +8,8 @@ I created this since I am a Mechanical Keyboard enthusiast. I added the text to 
 
 ## My Code
 
+
+```
 library(magick)
 
 brownswitches <- image_blank(width = 300,
@@ -40,4 +42,4 @@ meme <- c(left, reactionhappy)%>%
 
 
 image_write(meme, "mine.png")
-
+```
