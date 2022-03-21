@@ -4,7 +4,7 @@
 
 ## I am Dupeland
 
-This repository is for my [**STATS 220** - *Data Technologies* Course](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1223)
+This repository is for projects for my [**STATS 220** - *Data Technologies* Course](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1223)
 
 So far I have used
 
