@@ -12,7 +12,7 @@ I created this since I am a Mechanical Keyboard enthusiast. I added the text to 
 
 Here is a cat
 
-!(https://www.idlememe.com/wp-content/uploads/2021/08/crying-cat-meme-idlememe-3.jpg)
+![Cat](https://www.idlememe.com/wp-content/uploads/2021/08/crying-cat-meme-idlememe-3.jpg)
 
 ## My Code
 
